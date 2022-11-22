@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SayGoodJob.cs">
+    <Files>
+      <File FileName="Assets\Scripts\SayGoodJob.cs" Line="34" Column="5" />
+      <File FileName="Assets\Scripts\GoodJobTwo.cs" Line="9" Column="8" />
+      <File FileName="Assets\Scripts\GoodJobThree.cs" Line="37" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
